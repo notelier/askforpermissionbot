@@ -15,6 +15,13 @@ The result:
 
 I'm a petty arsehole, aren't I?
 
+### Available Enviornment Variables (.env)
+
+| Name            | Description                          |
+| --------------- | ------------------------------------ |              
+| TOKEN           | Discord Bot Token                    |
+| IGNORE_USER_IDS | List of IDs to ignore split with `,` |
+
 ### Ideas
 - Intergrate the DiscordSRV API to prevent you from sending messages without the bot bugging you on minecraft (maybe a seperate repo and programming it in java?)
 
