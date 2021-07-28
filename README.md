@@ -3,6 +3,8 @@ Has someone ever asked you to gain permission before you do something. Here's a 
 
 Simply just give it a token (.env file), give it a comma seperated list of people you want to ignore, run `main.sh` and boom, it will annoy the frick out of the entire server.
 
+If you need to shutdown the bot (in case it spams the server), say the word "failsafe" and the bot will stop and shutdown.
+
 What happened:
 
 ![](https://file.coffee/u/10iMNNRHIbUpgo.png)
