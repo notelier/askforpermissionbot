@@ -9,7 +9,7 @@ What happened:
 
 The result:
 
-![](https://file.coffee/u/FnDF7RvkEy8yl3.png)
+![](https://file.coffee/u/XM8JI3Fo1JotUF.png)
 
 I'm a petty arsehole, aren't I?
 
