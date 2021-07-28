@@ -5,6 +5,13 @@ Simply just give it a token (.env file), give it a comma seperated list of peopl
 
 If you need to shutdown the bot (in case it spams the server), say the word "failsafe" and the bot will stop and shutdown.
 
+### Available Enviornment Variables (.env)
+
+| Name            | Description                          |
+| --------------- | ------------------------------------ |              
+| TOKEN           | Discord Bot Token                    |
+| IGNORE_USER_IDS | List of IDs to ignore split with `,` |
+
 What happened:
 
 ![](https://file.coffee/u/10iMNNRHIbUpgo.png)
@@ -15,12 +22,7 @@ The result:
 
 I'm a petty arsehole, aren't I?
 
-### Available Enviornment Variables (.env)
 
-| Name            | Description                          |
-| --------------- | ------------------------------------ |              
-| TOKEN           | Discord Bot Token                    |
-| IGNORE_USER_IDS | List of IDs to ignore split with `,` |
 
 ### Ideas
 - Intergrate the DiscordSRV API to prevent you from sending messages without the bot bugging you on minecraft (maybe a seperate repo and programming it in java?)
